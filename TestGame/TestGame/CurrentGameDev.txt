@@ -1,0 +1,56 @@
+﻿#Values
+
+1. Be User-Focused
+	-Great user experience (UX) is incredibly important to enjoyable gameplay.
+	-Develop a clear idea of who your target user is. 
+	-Perform market research into the wants, likes, and needs of your target audience.
+	-Menus and interfaces that are too difficult to navigate or are over- or under-designed can frustrate players.
+
+2. Research Trends and Competition
+	-Consider the conditions of the market itself.
+	-Which types of games have stood the test of time?
+	-What are your competitors up to?
+	-Research the types of products that tend to succeed, as well as those that were doomed to failure.
+
+3. Differentiate Your Game
+	-Set your game apart from well-established products and newcomers alike.
+	-Offer something your competitors don’t.
+	-Add elements that gamers can’t find anywhere else or a familiar formula with a good twist. 
+	-Do something better than your competitors.
+
+4. Have a Hook
+	-Designing your mechanics, characters, and levels with a viral quality is the best way to get scores of people playing your game.
+	-Consider the hook early on in your project because it will ultimately determine the long-term appeal of your game.
+	-Dynamic characters, a special sound, an appealing storyline, a piece of animation.
+	-Once identified, capitalize on it, using it to bring newcomers to the app and keeping long-standing consumers engaged.
+
+5. Keep It Simple — at First
+	-Make your game straightforward, steering clear of elements that are too intricate.
+	-Once you’ve been at it for a while and have established yourself you can experiment with more intricate concepts.
+
+6. Have Different Elements of the Experience in Mind
+	-Keep controls intuitive.
+	-The right sounds at the right time are an important part of the gameplay experience.
+	-Games are involved.
+	-The experience isn’t static — it’s highly interactive.
+	-Keep all the different elements of the experience in mind.
+
+7. Assemble a Stellar Team
+	-A product manager who will research trends and develop a roadmap for the product.
+	-A project manager to coordinate the workflow and keep everyone on track.
+	-A marketing manager to promote the product.
+	-The user experience (UX) designer plays a fundamental role in game development too.
+	-The UX designer adds engaging elements to bring your game to life.
+
+8. Create a Plan
+	-Time management and organization are essential for keeping larger game projects on track.
+	-Make your game fun.
+	-Plans are critical for successful product development.
+	-You can use a generic project management platform, or you can use one specifically designed for game development oversight.
+
+9. Test It
+	-Balance the gameplay
+	-Even the smallest, seemingly insignificant bug could derail your entire game.
+	-You should thoroughly and rigorously test the game throughout the development cycle and prior to deployment.
+	-Get quality assurance (QA) testers with a high level of expertise.
+	-With so much competition in the gaming space, you must create a unique, engaging product to set your business apart.
