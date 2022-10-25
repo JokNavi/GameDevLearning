@@ -1,0 +1,4 @@
+﻿You get a bunch of numbers. And a bunch of operations. You have to put them together to get a certain number.
+For example:
+Numbers ->: 1, 150, 6, 3
+Operators ->: +, *, / 
