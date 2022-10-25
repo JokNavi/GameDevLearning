@@ -7,7 +7,8 @@
         static void Main(string[] args)
         {
             GenerateNumbers generateNumbers = new GenerateNumbers();
-            Console.WriteLine( generateNumbers.GenerateNumberArray());
+            Console.WriteLine( generateNumbers.GenerateNumberArray(-2,25));
+            Console.WriteLine(generateNumbers.GenerateOperatorArray());
         }
     }
 }
