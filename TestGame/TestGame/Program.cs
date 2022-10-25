@@ -7,7 +7,7 @@
         static void Main(string[] args)
         {
             GenerateNumbers generateNumbers = new GenerateNumbers();
-            Console.WriteLine( generateNumbers.GenerateArray().GetValue(0));
+            Console.WriteLine( generateNumbers.GenerateNumberArray());
         }
     }
 }
